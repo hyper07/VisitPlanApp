@@ -1,5 +1,8 @@
-# VisitPlanApp
+# Visit Plan WebApp
 
+![GitHub Logo](/img/phpcode.jpg)
+
+![GitHub Logo](/img/SAP.jpg)
 
 ![GitHub Logo](/img/DevView.jpg)
 
@@ -11,6 +14,17 @@
 
 ![GitHub Logo](/img/Plan2.jpg)
 
-![GitHub Logo](/img/phpcode.jpg)
+####HTML code
 
-![GitHub Logo](/img/SAP.jpg)
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
