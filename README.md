@@ -8,7 +8,7 @@
 ## Features
 - Create visit plan schedule for customers in territory
 - Get customers list with previous order history from SAP
-- If order has been created, Status will be changed to not be editable.
+- If order has been created, status will be changed to not be editable.
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-## Customers list from SAP ( T-Code : )
+## Customers list from SAP (customized customers table that only available for mobile order)
 ![GitHub Logo](/img/SAP.jpg)
 
 
