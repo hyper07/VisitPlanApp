@@ -1,4 +1,4 @@
-# Visit Plan WebApp
+# Visit Plan Web App
 
 
 ## Development environment and languages
@@ -46,5 +46,5 @@
 
 
 ## Schedule edit view
-#### Find, Sort, Add, and remove customers on plan.
+#### Find, Sort, Add, and Remove customers on plan.
 ![GitHub Logo](/img/Plan2.jpg)
